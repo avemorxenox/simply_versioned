@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Explorer with LanceDB, Actions and Docs updates (#7487)
