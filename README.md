@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Update inference.cpp (bug) (#7279)
