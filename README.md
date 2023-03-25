@@ -1,1 +1,1 @@
-Update neural-magic.md (#7347)
+Add missing single-line docstrings (#8362)
