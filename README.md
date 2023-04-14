@@ -1,1 +1,1 @@
-Fix solution functions description + integrations/openvino.md cover image update (#8170)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
