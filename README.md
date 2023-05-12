@@ -1,1 +1,1 @@
-Add horizontal Mosaic3 augmentation (#6898)
+ultralytics 8.1.13 fix yolo train time= bug (#8179)
