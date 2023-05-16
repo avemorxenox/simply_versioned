@@ -1,1 +1,1 @@
-ultralytics 8.0.229 add model.embed() method (#7098)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
