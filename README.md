@@ -1,1 +1,1 @@
-OBB Docs updates (#7512)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
