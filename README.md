@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+Python refactorings and simplifications (#7549)
