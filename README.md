@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+Add horizontal Mosaic3 augmentation (#6898)
