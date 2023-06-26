@@ -1,1 +1,1 @@
-Fix names bug when exporting YOLOv8-World to ONNX (#8941)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
