@@ -1,1 +1,1 @@
-Update Colab notebook for YOLOv8.1 (#8660)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
