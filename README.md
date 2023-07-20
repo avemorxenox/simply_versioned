@@ -1,1 +1,1 @@
-Add PR Summary step to Ultralytics Actions (#7675)
+Replace onnx2tf usage from CLI to Python (#8429)
