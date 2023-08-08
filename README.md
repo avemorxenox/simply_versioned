@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+Batch inference fixes (#8854)
