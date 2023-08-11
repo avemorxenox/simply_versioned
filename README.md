@@ -1,1 +1,1 @@
-Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
+Compress explorer image in dataset/index.md + description added for new segmentation datasets (#7901)
