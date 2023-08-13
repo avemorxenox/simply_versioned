@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Optimize function calls to method calls (#8507)
