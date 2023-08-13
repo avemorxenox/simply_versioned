@@ -1,1 +1,1 @@
-Add bgr hyperparameter (#9139)
+Fix Multi-GPU resume bug (#7328)
