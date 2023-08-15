@@ -1,1 +1,1 @@
-Optimize function calls to method calls (#8507)
+Add PR Summary step to Ultralytics Actions (#7675)
