@@ -1,1 +1,1 @@
-YAML reformat (#7669)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
