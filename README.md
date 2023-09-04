@@ -1,1 +1,1 @@
-Docs partial mdformat improvements (#7378)
+Docs updates and improvements (#8183)
