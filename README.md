@@ -1,1 +1,1 @@
-YAML reformat (#7669)
+Update CI.md with CI links (#8786)
