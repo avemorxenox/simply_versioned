@@ -1,1 +1,1 @@
-Merge pull request #22 from SkalskiP/patch-1
+fix yolo classify model loading error (#9196)
