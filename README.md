@@ -1,1 +1,1 @@
-OBB Docs updates (#7512)
+Optimize function calls to method calls (#8507)
