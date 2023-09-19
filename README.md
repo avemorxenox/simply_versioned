@@ -1,1 +1,1 @@
-ultralytics 8.1.33 fix HUB model checks (#9153)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
