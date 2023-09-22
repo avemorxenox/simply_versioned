@@ -1,1 +1,1 @@
-fix predict with class filter
+ADD | opnecv c++ Onnx integration (#70)
