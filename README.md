@@ -1,1 +1,1 @@
-Python refactorings and simplifications (#7549)
+Compare plt.get_backend() in lowercase (#8409)
