@@ -1,1 +1,1 @@
-Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
+ultralytics 8.1.27 batched tracking fixes (#8842)
