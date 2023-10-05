@@ -1,1 +1,1 @@
-OpenVino 2024.0.0 (#8726)
+Update docs building code (#7601)
