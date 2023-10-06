@@ -1,1 +1,1 @@
-Add simple-utilities.md Docs page (#8269)
+ultralytics 8.1.19 PNNX aarch64 linux fix (#8480)
