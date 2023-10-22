@@ -1,1 +1,1 @@
-Update fraction arg to employ a random selection (#8234)
+Add PaddlePaddle Docs Integrations Page (#8858)
