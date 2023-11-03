@@ -1,1 +1,1 @@
-New test for labels and crops (#8861)
+Update format.yml to pull_request_target (#7460)
