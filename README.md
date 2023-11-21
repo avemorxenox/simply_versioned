@@ -1,1 +1,1 @@
-ultralytics 8.0.223 add YOLOv8-Ghost P2 and P6 variants (#6826)
+Add millimeters in solutions/distance_caculation.py + object-cropping.md visuals (#7860)
