@@ -1,1 +1,1 @@
-Add TensorRT Docs Integrations Page (#7855)
+Update CITATION.cff with cffinit corrections (#8658)
