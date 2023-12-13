@@ -1,1 +1,1 @@
-Updating a typo on paddlepaddle.md (#9108)
+Batch inference fixes (#8854)
