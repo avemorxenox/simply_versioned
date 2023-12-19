@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+ultralytics 8.0.228 add training time argument (#7054)
