@@ -1,1 +1,1 @@
-Add missing single-line docstrings (#8362)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
