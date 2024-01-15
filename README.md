@@ -1,1 +1,1 @@
-Pass callbacks to validator (#7320)
+Fix Multi-GPU resume bug (#7328)
