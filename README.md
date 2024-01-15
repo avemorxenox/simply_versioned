@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Add integrations/gradio Docs page (#7935)
