@@ -1,1 +1,1 @@
-Docs updates and improvements (#8183)
+Add horizontal Mosaic3 augmentation (#6898)
