@@ -1,1 +1,1 @@
-Add horizontal Mosaic3 augmentation (#6898)
+Python refactorings and simplifications (#7549)
