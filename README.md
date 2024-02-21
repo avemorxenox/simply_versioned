@@ -1,1 +1,1 @@
-Merge pull request #22 from SkalskiP/patch-1
+Improve Coral Edge TPU guide (#8160)
