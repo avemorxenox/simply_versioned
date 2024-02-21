@@ -1,1 +1,1 @@
-Add NCNN Docs Integrations Page (#8562)
+Merge pull request #22 from SkalskiP/patch-1
