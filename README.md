@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
