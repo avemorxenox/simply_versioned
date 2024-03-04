@@ -1,1 +1,1 @@
-Add YouTube iframe loading=lazy (#8001)
+Fix PNNX ubuntu -> linux bug (#7050)
