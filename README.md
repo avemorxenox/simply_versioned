@@ -1,1 +1,1 @@
-Upload Any File - An additional option to the document sheet that can be used to upload any file on your root file system
+ultralytics 8.1.3 ResNet models and lighter dependencies (#7700)
