@@ -1,1 +1,1 @@
-ultralytics 8.1.17 fix ClassificationDataset caching (#8358)
+ultralytics 8.0.239 Ultralytics Actions and hub-sdk adoption (#7431)
