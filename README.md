@@ -1,1 +1,1 @@
-ultralytics 8.0.239 Ultralytics Actions and hub-sdk adoption (#7431)
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
