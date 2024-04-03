@@ -1,1 +1,1 @@
-Update docs building code (#7601)
+Add plot_images conf_thresh parameter (#8446)
