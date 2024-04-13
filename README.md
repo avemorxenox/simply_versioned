@@ -1,1 +1,1 @@
-Explorer with LanceDB, Actions and Docs updates (#7487)
+Limit ray<2.9.3 due to bug in ray==2.10.0 (#9254)
