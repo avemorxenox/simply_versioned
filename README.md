@@ -1,1 +1,1 @@
-Fix TFLite INT8 for OBB (#7989)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
