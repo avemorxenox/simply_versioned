@@ -1,1 +1,1 @@
-ultralytics 8.1.33 fix HUB model checks (#9153)
+Update pyproject.toml [tool.pytest.ini_options] (#9259)
