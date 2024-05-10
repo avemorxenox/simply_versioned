@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+Avoid creating -hub dir without processing images (#8334)
