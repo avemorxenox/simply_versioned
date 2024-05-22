@@ -1,1 +1,1 @@
-Mkdocs updates (#8008)
+Fix Multi-GPU resume bug (#7328)
