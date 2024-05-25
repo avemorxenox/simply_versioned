@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+ultralytics 8.1.24 new OpenVINO 2023.3 export updates (#8417)
