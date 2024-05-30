@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+Fix OBB xywh-angle concatenation bug (#7404)
