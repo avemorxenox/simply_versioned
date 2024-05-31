@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+ultralytics 8.1.11 expand OpenVINO INT8 ops for improved mAP (#7516)
