@@ -1,1 +1,1 @@
-Update OpenVINO INT8 export (#7515)
+Fix Yolo 8.0.206 scale bug (#7821)
