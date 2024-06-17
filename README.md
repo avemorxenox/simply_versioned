@@ -1,1 +1,1 @@
-Fix PNNX ubuntu -> linux bug (#7050)
+Clean up unused imgsz (#7771)
