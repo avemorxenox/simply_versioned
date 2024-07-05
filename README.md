@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+docs: update view-results-in-terminal.md (#66)
