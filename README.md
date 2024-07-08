@@ -1,1 +1,1 @@
-Update Discord and Contributing Guide URLs (#9270)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
