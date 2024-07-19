@@ -1,1 +1,1 @@
-Move Explorer tests to scheduled CI (#8305)
+OpenVino 2024.0.0 (#8726)
