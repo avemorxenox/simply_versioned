@@ -1,1 +1,1 @@
-OpenVino 2024.0.0 (#8726)
+Bump codecov/codecov-action from 3 to 4 in /.github/workflows (#8022)
