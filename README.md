@@ -1,1 +1,1 @@
-Compare plt.get_backend() in lowercase (#8409)
+Add CoreML Docs Integrations Page (#8063)
