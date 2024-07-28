@@ -1,1 +1,1 @@
-More robust PNNX downloads (#8866)
+Remove JAX constraints in Exporter (#8309)
