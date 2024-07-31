@@ -1,1 +1,1 @@
-example Google Colab
+ultralytics 8.1.19 PNNX aarch64 linux fix (#8480)
