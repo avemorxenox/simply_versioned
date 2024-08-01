@@ -1,1 +1,1 @@
-ultralytics 8.0.238 Explorer Ask AI feature and fixes (#7408)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
