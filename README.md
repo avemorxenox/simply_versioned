@@ -1,1 +1,1 @@
-Update Dockerfile for Raspberry Pi Support (#8123)
+Auto-format by https://ultralytics.com/actions
