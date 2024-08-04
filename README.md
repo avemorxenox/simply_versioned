@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
