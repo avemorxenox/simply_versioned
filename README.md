@@ -1,1 +1,1 @@
-Add YouTube iframe loading=lazy (#8001)
+Add https://youtu.be/96NkhsV-W1U to docs and heatmaps fix (#7944)
