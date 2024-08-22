@@ -1,1 +1,1 @@
-Update Docs README (#8919)
+Fixed dataloader CPU bottleneck for small batch sizes (#7659)
