@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+New HUB Cloud Training docs page (#8174)
