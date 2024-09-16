@@ -1,1 +1,1 @@
-ultralytics 8.1.15 add Python 3.12 compatibility (#8210)
+Replace onnx2tf usage from CLI to Python (#8429)
