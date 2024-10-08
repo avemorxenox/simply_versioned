@@ -1,1 +1,1 @@
-Add HUB-SDK Docs reference section (#7781)
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
